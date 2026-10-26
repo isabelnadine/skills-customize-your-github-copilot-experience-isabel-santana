@@ -9,11 +9,11 @@ Pratique strings, laços, condicionais e seleção aleatória criando um jogo da
 
 ### 🛠️ Implement the Core Game
 
-#### Description
+#### Descrição
 
 Complete a lógica principal do jogo usando a lista de palavras e os espaços indicados no código inicial.
 
-#### Requirements
+#### Requisitos
 
 O programa concluído deve:
 
@@ -24,11 +24,11 @@ O programa concluído deve:
 
 ### 🛠️ Validate Guesses and Improve Feedback
 
-#### Description
+#### Descrição
 
 Trate entradas inválidas ou repetidas para que o jogo responda de forma clara e mantenha o estado corretamente.
 
-#### Requirements
+#### Requisitos
 
 O programa concluído deve:
 
