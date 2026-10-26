@@ -65,6 +65,13 @@
       "description": "Criar uma API REST com FastAPI, incluindo endpoints CRUD, validação de dados e testes automatizados.",
       "path": "assignments/building-rest-apis-fastapi",
       "dueDate": "2026-11-02"
+    },
+    {
+      "id": "sqlite-persistence-fastapi",
+      "title": "Persistência de Dados com SQLite e FastAPI",
+      "description": "Adicionar persistência SQLite a uma API CRUD com FastAPI, incluindo operações de banco de dados e testes.",
+      "path": "assignments/sqlite-persistence-fastapi",
+      "dueDate": "2026-11-02"
     }
   ]
 }
